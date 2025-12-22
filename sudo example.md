@@ -1,4 +1,5 @@
 Answers from Gemini:
+https://developers.google.com/gemini-code-assist/docs/set-up-code-assist-github
 Here is the step-by-step logical deduction to solve the Sudoku puzzle.
 
 ### Initial Analysis
